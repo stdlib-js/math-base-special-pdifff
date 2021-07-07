@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-pdifff",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Return the positive difference between `x` and `y`.",
   "license": "Apache-2.0",
   "author": {
