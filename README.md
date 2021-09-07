@@ -229,6 +229,20 @@ int main() {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/pdiff`][@stdlib/math/base/special/pdiff]: return the positive difference between `x` and `y`.
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -287,6 +301,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-pdifff/main/LICENSE
 
 [fdim]: http://en.cppreference.com/w/cpp/numeric/math/fdim
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/pdiff]: https://github.com/stdlib-js/math-base-special-pdiff
+
+<!-- </related-links> -->
 
 </section>
 
