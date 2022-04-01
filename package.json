@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/math-base-special-pdifff",
+  "version": "0.0.0",
+  "description": "Return the positive difference between `x` and `y`.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-pdifff.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "positive",
+    "pos",
+    "difference",
+    "diff",
+    "fdim",
+    "dim",
+    "single-precision",
+    "float",
+    "single"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
