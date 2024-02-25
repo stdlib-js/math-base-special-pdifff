@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import pdifff from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pdifff@esm/index.mjs';
+import pdifff from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pdifff@v0.2.1-esm/index.mjs';
 ```
 
 #### pdifff( x, y )
@@ -114,7 +114,7 @@ v = pdifff( NaN, NaN );
 <script type="module">
 
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@esm/index.mjs';
-import pdifff from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pdifff@esm/index.mjs';
+import pdifff from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pdifff@v0.2.1-esm/index.mjs';
 
 var x;
 var y;
