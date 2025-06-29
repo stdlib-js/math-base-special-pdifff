@@ -43,7 +43,8 @@
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
     "@stdlib/math-base-napi-binary": "^0.3.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/constants-float32-max": "^0.2.2",
